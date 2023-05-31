@@ -1,0 +1,31 @@
+{
+  "name": "oled-dark",
+  "displayName": "oled_dark",
+  "description": "Fonts prepared for OLED screens",
+  "publisher": "w8eight",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "author": {
+    "name": "Kacper Czekaj",
+    "email": "kacperfczekaj+oled_dark@gmail.com"
+  },
+  "icon": "icon.jpg",
+  "repository": {
+    "url": "https://github.com/w8eight/dark_oled_theme.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oled DARK",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oled-DARK-color-theme.json"
+      }
+    ]
+  }
+}
