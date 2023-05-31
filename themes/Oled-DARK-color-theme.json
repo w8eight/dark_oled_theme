@@ -232,8 +232,8 @@
         "panel.background": "#000000",
         "statusBarItem.remoteBackground": "#000000",
         "statusBar.background": "#000000",
-        "editor.findMatchBackground": "#000000",
-        "searchEditor.findMatchBackground": "#000000",
+        "editor.findMatchBackground": "#606060",
+        "searchEditor.findMatchBackground": "#454545",
         "notificationCenterHeader.background": "#000000"
     }
 }
