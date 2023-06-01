@@ -203,6 +203,8 @@
     "colors": {
         "editor.background": "#000000",
         "activityBar.background": "#000000",
+        "activityBar.foreground": "#6e6e6e",
+        "activityBar.activeFocusBorder": "#393939",
         "badge.background": "#000000",
         "banner.background": "#000000",
         "breadcrumb.background": "#000000",
@@ -228,12 +230,15 @@
         "tab.activeBackground": "#000000",
         "tab.inactiveBackground": "#000000",
         "tab.activeBorderTop": "#014318",
+        "menu.background": "#000000",
+        "tab.unfocusedInactiveBackground": "#000000",
         "terminal.background": "#000000",
         "panel.background": "#000000",
         "statusBarItem.remoteBackground": "#000000",
         "statusBar.background": "#000000",
+        "statusBar.foreground": "#383838",
         "editor.findMatchBackground": "#606060",
         "searchEditor.findMatchBackground": "#454545",
-        "notificationCenterHeader.background": "#000000"
+        "notificationCenterHeader.background": "#000000",
     }
 }
