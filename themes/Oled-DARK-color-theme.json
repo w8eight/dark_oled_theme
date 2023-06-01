@@ -233,6 +233,7 @@
         "menu.background": "#000000",
         "tab.unfocusedInactiveBackground": "#000000",
         "terminal.background": "#000000",
+        "terminal.foreground": "#595959",
         "panel.background": "#000000",
         "statusBarItem.remoteBackground": "#000000",
         "statusBar.background": "#000000",
