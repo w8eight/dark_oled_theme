@@ -202,6 +202,7 @@
     },
     "colors": {
         "editor.background": "#000000",
+        "editorWidget.background": "#000000",
         "activityBar.background": "#000000",
         "activityBar.foreground": "#6e6e6e",
         "activityBar.activeFocusBorder": "#393939",
@@ -241,5 +242,6 @@
         "editor.findMatchBackground": "#606060",
         "searchEditor.findMatchBackground": "#454545",
         "notificationCenterHeader.background": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
     }
 }

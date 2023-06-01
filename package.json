@@ -3,7 +3,7 @@
   "displayName": "oled_dark",
   "description": "Fonts prepared for OLED screens",
   "publisher": "w8eight",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.78.0"
   },
